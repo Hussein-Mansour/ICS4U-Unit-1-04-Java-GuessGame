@@ -15,11 +15,6 @@ import java.util.Random;
 final class GuessGame {
 
     /**
-    * Declaring exponent variable.
-    */
-
-
-    /**
     * Prevent instantiation.
     * Throw an exception IllegalStateException.
     * if this ever is called
